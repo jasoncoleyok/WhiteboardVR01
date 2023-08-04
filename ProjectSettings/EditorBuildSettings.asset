@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ChatGPT NPC.unity
+    guid: 5cca194a501a5db4e9bb8fed481e7a82
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: eb9579cd207c85045815e0d8d9ac68f2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4b52695376fda044497f932fb56472bd, type: 2}
